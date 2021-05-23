@@ -1,0 +1,16 @@
+{
+  "name": "async",
+  "version": "1.0.0",
+  "description": "Simple Asynchronous",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "startCallback": "node callback",
+    "startPromise": "node promise",
+    "startPromisify": "node promisify",
+    "startCallbackify": "node callbackify",
+    "startAsync": "node async"
+  },
+  "author": "",
+  "license": "ISC"
+}
