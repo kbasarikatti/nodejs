@@ -1,0 +1,11 @@
+{
+  "name": "dbserver",
+  "version": "1.0.0",
+  "description": "Simple server with mongodb connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
