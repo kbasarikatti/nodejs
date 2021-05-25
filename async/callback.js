@@ -10,6 +10,7 @@ function slowFunction(done) {
   }, 300);
 }
 
+// callback hell , pyramid of doom
 function runSequentially(callback) {
   fastFunction((err, data) => {
     if (err) return callback(err);
