@@ -1,12 +1,11 @@
 {
-  "name": "clusterdemo",
+  "name": "evts",
   "version": "1.0.0",
-  "description": "Cluster Demo for multi core machine",
+  "description": "Events Demo!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index",
-    "startThreads": "node threads"
+    "start": "node index"
   },
   "author": "",
   "license": "ISC"
